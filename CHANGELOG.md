@@ -1,6 +1,22 @@
 # Release Notes
 
 ## ✨ Features
+- Enable EBS volume encryption by default for node groups
+- Implement distinct role for VPC proxy function
+
+## 🛠 Improvements
+- Adjust IAM policies for AWSQS::Kubernetes::Resource
+- Update security group cleanup process
+- Optimize test job sequencing
+- Add missing IAM permissions for Kubernetes resource management
+
+## 📝 Documentation
+- Add retirement notice for old guide
+- Update CHANGELOG.md
+
+# Release Notes
+
+## ✨ Features
 - Added encryption for node EBS volumes by default
 - Implemented distinct role for VPC proxy function
 
