@@ -1,3 +1,14 @@
+# Changelog
+
+## 🛠 Improvements
+- Enhanced IAM policies for AWSQS::Kubernetes::Resource
+- Added encryption by default for node EBS volumes
+- Updated security group cleanup process
+- Added retirement notice for old guide
+
+## 🔄 Updates
+- Updated AWSQS::Kubernetes::Resource/Get submodule
+
 # Release Notes
 
 ## ✨ Features
