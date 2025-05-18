@@ -1,3 +1,12 @@
+# Changelog
+
+## 🛠 Improvements
+- Adjust IAM policies for AWSQS::Kubernetes::Resource
+- Add retirement notice for old guide
+- Bump AWSQS::Kubernetes::Resource/Get submodule
+
+Note: Several changelog maintenance commits have been excluded for clarity.
+
 # Release Notes
 
 ### 🛠 Improvements
